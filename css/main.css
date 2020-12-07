@@ -124,7 +124,9 @@ h1,
 
 @media only screen and (max-width: 600px) {
   h1,
-  .h1 {
+  .h1,
+  h2,
+  .h2 {
     font-size: 3.3rem;
     letter-spacing: -0.07rem;
   }
@@ -1838,7 +1840,7 @@ input::-moz-focus-inner {
 }
 .home-content h2 {
   font-family: "montserrat-medium", sans-serif;
-  font-size: 6.3rem;
+  font-size: 4.3rem;
   line-height: 1.333;
   margin-top: 0;
   color: #fff;
